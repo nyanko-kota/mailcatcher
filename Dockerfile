@@ -1,6 +1,6 @@
 FROM ruby:2.6.1-alpine3.9
 
-LABEL maintainer="nyankokota <mail@nyanko-kota.com>"
+LABEL maintainer="nyankokota <public@nyanko-kota.com>"
 
 RUN set -e && \
     apk add --no-cache ruby ruby-bigdecimal ruby-json libstdc++ sqlite-libs && \
