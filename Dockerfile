@@ -11,4 +11,4 @@ RUN set -e && \
 EXPOSE 1025
 EXPOSE 8082
 
-CMD ["mailcatcher", "--no-quit", "--foreground", "--http-port=8082"]
+CMD ["mailcatcher", "--no-quit", "--foreground", "--ip=0.0.0.0", "--http-port=8082"]
