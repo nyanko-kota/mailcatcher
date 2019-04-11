@@ -1,3 +1,6 @@
+# mailcatcher
+[![Docker Automated build](https://img.shields.io/docker/automated/nyankokota/mailcatcher.svg?style=flat)](https://hub.docker.com/r/nyankokota/mailcatcher/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nyankokota/mailcatcher.svg?style=flat)](https://hub.docker.com/r/nyankokota/mailcatcher/)
 ### How to use
 
 ```
