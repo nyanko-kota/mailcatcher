@@ -6,6 +6,8 @@
 ### How to use
 
 ```
+version: '3'
+services:
     mailcatcher:
       image: nyankokota/mailcatcher:latest
       container_name: 'mailcatcher'
